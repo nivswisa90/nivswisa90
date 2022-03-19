@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Niv Swisa, Third year software engineering student at Shenkar.
+I'm Niv Swisa, Forth year software engineering student at Shenkar.
 I'm currently at specialization of FullStack.
 
 
