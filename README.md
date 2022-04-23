@@ -5,6 +5,6 @@ I'm currently at specialization of FullStack.
 - 📫 How to reach me: Mail - nivswisa9@gmail.com , Linkedin - https://www.linkedin.com/in/niv-swisa/
 
 Languages and tools - 
-C, C++ (both OOP), HTML, CSS , java script(Node.js), python, java, MySQL, mongoDB, Git, React, Linux
+React, JavaScript(ES6), HTML, CSS, python, MySQL, mongoDB, GrapQL  Git, Linux
 
 Available for work!
